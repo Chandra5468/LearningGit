@@ -7,3 +7,8 @@ Chicken fry
 masala curry
 
 Watermelon juice
+
+
+Creating and merging branches
+
+Here i'm at master branch (later i will merge with another branch called first branch)
