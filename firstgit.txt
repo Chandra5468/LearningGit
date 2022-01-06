@@ -12,3 +12,6 @@ Watermelon juice
 Creating and merging branches
 
 Here i'm at master branch (later i will merge with another branch called first branch)
+
+
+This text is created in new branch called "first branch" 
